@@ -6,6 +6,9 @@
 - 🌱 Realizando o curso de Desenvolvimento de Web (Front-End) pela Escola Britanica de Artes Criativas & Tecnologia.
 - 📒 Realizando o curso Full-Stack Engineer pela Codecademy.
 - 📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
+- ⌨️ Intermediário: HTML, CSS, Git.
+- ⌨️ Básico: Javascript.
+- ⌨️ Na fila para aprendizado: React, SQL.
 
 
 ## Hi, I'm Laura!
@@ -16,4 +19,6 @@
 - 🌱 I’m currently learning Web Development (Front-End) on Escola Britanica de Artes Criativas & Tecnologia.
 - 📒 I'm currently learning Full-Stack Engineer on Codecademy.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
-
+- ⌨️ Intermediate: HTML, CSS, Git.
+- ⌨️ Basic: Javascript.
+- ⌨️ Next: React, SQL.
