@@ -9,7 +9,7 @@
 - 📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
 - ⌨️ Intermediário: HTML, CSS, Git, SQL.
 - ⌨️ Básico: Javascript, PHP.
-- Projeto pessoal: Site WEB 1.0 - [cosmicsan](https://cosmicsan.neocities.org/)
+
 
 
 
@@ -24,7 +24,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
 - ⌨️ Intermediate: HTML, CSS, Git, SQL.
 - ⌨️ Basic: Javascript, PHP.
-- Personal project: WEB 1.0 Website - [cosmicsan](https://cosmicsan.neocities.org/)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lauravitalc&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
