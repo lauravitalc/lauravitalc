@@ -5,7 +5,6 @@
 - 🔊 Falo inglês avançado e espanhol básico.
 - 🌱 Realizando o curso de Desenvolvimento de Web (Front-End) pela Escola Britanica de Artes Criativas & Tecnologia.
 - 📒 Realizando o curso Full-Stack Engineer pela Codecademy.
-- 📚 Trabalhando na Soluções Hinova como Estágiaria em Desenvolvimento PHP/MySQL.
 - 📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
 
 ## Hi, I'm Laura!
@@ -15,7 +14,6 @@
 - 🔊 I speak advanced English and basic Spanish.
 - 🌱 I’m currently learning Web Development (Front-End) on Escola Britanica de Artes Criativas & Tecnologia.
 - 📒 I'm currently learning Full-Stack Engineer on Codecademy.
-- 📚 Working on Soluções Hinova as intern in PHP/MySQL Development. 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
 
 ![HTML](
