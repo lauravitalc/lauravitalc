@@ -1,22 +1,36 @@
-## Oi, sou Laura!
-- 🛤 Brasileira.
-- 😄 Pronomes: Ela/Dela.
-- 📚 Estudante de Sistemas de Informação.
-- 🔊 Falo inglês avançado e espanhol básico.
-- 🌱 Realizando o curso de Desenvolvimento de Web (Front-End) pela Escola Britanica de Artes Criativas & Tecnologia.
-- 📒 Realizando o curso Full-Stack Engineer pela Codecademy.
-- 📫 Entre em contato comigo: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
+<div align="center">
+  <h1> ✨ Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Laura Vital ✨</a> </h1>
+  <h3>Looking for a job 🔍</h3>
+  <p>Systems Information Student.</p>
+  <p>Front-End and Web Design.</p>
+  
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
+  </p>
+  
+  
+<p>
+  <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</p>
+  
+ <p>
+  <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+   
+</p>
+  
+   <h3>✨ My Social Media ✨</h3>
+  
+  <a href="https://www.linkedin.com/in/lauracacique/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.codecademy.com/profiles/lauravitalc"><img src="https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347"></a>
+   <a href="https://www.udemy.com/user/laura-vital-cacique/"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"></a>
+  
+  
+  <p>Thanks to: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a>, <a href="https://dev.to/envoy_/150-badges-for-github-pnk">Vedant Chainani</a> and <a href="https://devicon.dev/">Devicon</a></p>
 
-## Hi, I'm Laura!
-- 🛤 From Brazil.
-- 😄 Pronouns: She/Her.
-- 📚 Studying Information Systems.
-- 🔊 I speak advanced English and basic Spanish.
-- 🌱 I’m currently learning Web Development (Front-End) on Escola Britanica de Artes Criativas & Tecnologia.
-- 📒 I'm currently learning Full-Stack Engineer on Codecademy.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/lauracacique/)
-
-![HTML](
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+</div>
