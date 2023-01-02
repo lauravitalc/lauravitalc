@@ -2,7 +2,7 @@
   <h1> ✨ Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Laura Vital ✨</a> </h1>
   <h3>Looking for a job 🔍</h3>
   <p>Systems Information Student.</p>
-  <p>Front-End and Web Design.</p>
+  <p>Web Development</p>
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
