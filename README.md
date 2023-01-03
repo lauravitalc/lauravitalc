@@ -2,7 +2,7 @@
   <h1> ✨ Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Laura Vital ✨</a> </h1>
   <h3>Looking for a job 🔍</h3>
   <p>Systems Information Student.</p>
-  <p>Web Development</p>
+  <p>Web Development.</p>
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
@@ -20,8 +20,7 @@
  <p>
   <img align="center" alt="jQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-   
+  <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
 </p>
   
    <h3>✨ My Social Media ✨</h3>
