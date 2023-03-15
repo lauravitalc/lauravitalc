@@ -3,6 +3,7 @@
   <h3>Web Development Intern</h3>
   <p>Systems Information Student.</p>
   <p>Web Development.</p>
+  <p><a href="https://www.instagram.com/girls.intech/">Girls in Tech</a> Member.</p>
   
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
@@ -14,6 +15,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </p>
   
