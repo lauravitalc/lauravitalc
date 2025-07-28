@@ -1,16 +1,21 @@
 <div align="left">
   <h1>Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Laura Vital ✨</a> </h1>
-  <h3>Full Stack Development Intern</h3>
-  <p>Information Systems student (graduating in 2025) with experience in full-stack development and application security. Worked with Angular, Java, Python, PHP and Spring Boot, as well as automated testing. Fluent in English and experienced in international teams. Seeking a Junior Developer position.</p>
+  <h3>Full Stack Developer</h3>
+  <p>I'm a full-stack developer with a strong focus on back-end technologies, passionate about building efficient and scalable solutions. I'm currently in my 8th semester of a Bachelor's degree in Information Systems and working in an international, agile environment on global-scale projects.</p>
+
+  <p>I have hands-on experience with Angular, Java (Spring Boot), .NET Framework (MVC), PHP, and Python, working across full-stack and legacy systems. I actively participate in Scrum sprints, collaborating with multicultural teams and using English on a daily basis.</p>
   
+  <p>In addition to my technical skills, I'm curious, proactive, and a strong communicator, always eager to learn and contribute to a productive and healthy work environment.</p>
+  
+  <p>🔑 Key technologies: Angular, Spring Boot, Java 17, .NET Framework 4.5 (MVC), PHP, Python, jQuery, SQL, GitLab, Docker, CI/CD, Cypress, Jira, AWS</p>
+  <p>📖 Languages: English (Advanced - C1), Spanish (Basic), French (Basic - A1)</p>
+    
  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
  </p>
  
   <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,java,python,php,angular,spring,flask,wordpress,mysql,postgres"/>
-  </a>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,cs,spring,php,python,postgres,aws">
  </p>
  
    <h3>My Social Media </h3>
