@@ -1,14 +1,14 @@
 <div align="left">
   <h1>Hello, I'm <a href="https://www.linkedin.com/in/lauracacique/">Laura Vital ✨</a> </h1>
   <h3>Full Stack Developer</h3>
-  <p>I'm a full-stack developer with a strong focus on back-end technologies, passionate about building efficient and scalable solutions. I'm currently in my 8th semester of a Bachelor's degree in Information Systems and working in an international, agile environment on global-scale projects.</p>
+  <p>I'm a full-stack developer with a strong focus on back-end technologies, passionate about building efficient and scalable solutions. I have Bachelor's degree in Information Systems. </p>
 
   <p>I have hands-on experience with Angular, Java (Spring Boot), .NET Framework (MVC), PHP, and Python, working across full-stack and legacy systems. I actively participate in Scrum sprints, collaborating with multicultural teams and using English on a daily basis.</p>
   
   <p>In addition to my technical skills, I'm curious, proactive, and a strong communicator, always eager to learn and contribute to a productive and healthy work environment.</p>
   
   <p>🔑 Key technologies: Angular, Spring Boot, Java 17, .NET Framework 4.5 (MVC), PHP, Python, jQuery, SQL, GitLab, Docker, CI/CD, Cypress, Jira, AWS</p>
-  <p>📖 Languages: English (Advanced - C1), Spanish (Basic), French (Basic - A1)</p>
+  <p>📖 Languages: English (Advanced - C1), Spanish (Basic), French (B1)</p>
     
  <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauravitalc&layout=compact&theme=radical">
